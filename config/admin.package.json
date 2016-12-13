@@ -1,0 +1,14 @@
+{
+  "name" : "Eshop",
+  "package" : "mcms-eshop",
+  "modules" : [
+    "mcms.eshop"
+  ],
+  "files" : {
+    "js" : [
+      "vendor/mcms/eshop/js/admin-compiled.js"
+    ],
+    "css" : [
+    ]
+  }
+}
